@@ -1,0 +1,8 @@
+Go Here
+https://www.superdatascience.com/deep-learning/
+
+Download Artificial_Neural_Networks
+
+Unzip. OnlyTake Artificial_Neural_Networks/Churn_Modelling.csv
+
+Put in this folder

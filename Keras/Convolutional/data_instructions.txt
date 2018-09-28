@@ -1,0 +1,8 @@
+Go Here
+https://www.superdatascience.com/deep-learning/
+
+Download Artificial_Neural_Networks
+
+Unzip. OnlyTake Convolutional_Neural_Networks/dataset contents. (Don't include the folder dataset, just what's inside) 
+
+Put in this folder
